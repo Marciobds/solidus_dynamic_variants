@@ -1,0 +1,5 @@
+en:
+  hello: "Olá mundo"
+  spree:
+    dynamic_variants: "Variantes Dinâmicas"
+    surcharge: "Sobretaxa"

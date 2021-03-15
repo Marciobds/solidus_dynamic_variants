@@ -1,4 +1,5 @@
-en:
+---
+pt-BR:
   hello: "Olá mundo"
   spree:
     dynamic_variants: "Variantes Dinâmicas"
